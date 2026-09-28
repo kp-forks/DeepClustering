@@ -34,7 +34,7 @@ Notes:
 | [Local Graph Clustering with Noisy Labels](https://openreview.net/pdf?id=89A5c6enfc) | - | ICLR 2024 | - |
 | [LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering](https://openreview.net/pdf?id=L6SRXG92s6) | LSEnet | ICML 2024 | [Pytorch](https://github.com/ZhenhHuang/LSEnet) |
 | [Attribute-Missing Graph Clustering Network](https://ojs.aaai.org/index.php/AAAI/article/view/29464) | AMGC | AAAI 2024 | [Pytorch](https://github.com/WxTu/AMGC) |
-| [Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29514) | AHGFC | AAAI 2024 | - |
+| [Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29514) | AHGFC | AAAI 2024 | [Pytorch](https://github.com/ZichenWen1/AHGFC) |
 | [DGCLUSTER: A Neural Framework for Attributed Graph Clustering via Modularity Maximization](https://ojs.aaai.org/index.php/AAAI/article/view/28983) | DGCLUSTER | AAAI 2024 | [Pytorch](https://github.com/pyrobits/DGCluster) |
 | [Every Node Is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29664) | DyFSS | AAAI 2024 | [Pytorch](https://github.com/q086/DyFSS) |
 | [Contrastive Deep Nonnegative Matrix Factorization for Community Detection](https://arxiv.org/pdf/2311.02357.pdf) | CDNMF | ICASSP 2024 | [Pytorch](https://github.com/6lyc/CDNMF) |
