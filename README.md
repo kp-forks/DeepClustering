@@ -217,6 +217,7 @@ This repository intentionally has a relatively broad scope. In addition to canon
 ### Incomplete, Unpaired, and Federated Multi-view Clustering
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Straight-Path Flow Matching for Incomplete Multi-View Clustering](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6814.pdf) | - | ECCV 2026 | - |
 | [Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering](https://openreview.net/forum?id=Wm3XgP6xQ8) | IDCD | ICML 2026 | - |
 | [Hypergraph-Based Unaligned Multi-View Clustering via Cluster-Aware Feature Extraction](https://doi.org/10.1145/3770855.3817741) | - | KDD 2026 | - |
 | [Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion](https://openreview.net/forum?id=0oVPf178N4) | - | ICML 2026 | - |
@@ -327,6 +328,11 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 ### Image and Visual Recognition
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [CloSeR: Unified Relational Distillation from Closed-Set Teachers for Category Discovery](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1228.pdf) | CloSeR | ECCV 2026 | - |
+| [DP-BOA: Dirichlet-Process Birth-or-Assign for On-the-Fly Category Discovery](https://doi.org/10.1007/978-3-032-37023-5_15) | DP-BOA | ECCV 2026 | - |
+| [Fourier Self-Supervision for Fine-Grained Generalized Category Discovery](https://doi.org/10.1007/978-3-032-37553-7_30) | FourEx | ECCV 2026 | [Official](https://github.com/SarahRastegar/FourEx) |
+| [HVGCD: Rethinking Generalized Category Discovery through Hypothesis-Verification](https://doi.org/10.1007/978-3-032-36839-3_11) | HVGCD | ECCV 2026 | - |
+| [Virtual Category-Guided Continual Generalized Category Discovery](https://doi.org/10.1007/978-3-032-37041-9_4) | - | ECCV 2026 | [Official](https://github.com/Mrxjh105/VC-CGCD) |
 | [MAGIC: Multi-Granularity Language-Informed Image Clustering](https://openreview.net/forum?id=eyo7TITaF9) | MAGIC | ICML 2026 | - |
 | [On the Provable Importance of Gradients for Autonomous Language-Assisted Image Clustering](https://openaccess.thecvf.com/content/ICCV2025/html/Peng_On_the_Provable_Importance_of_Gradients_for_Autonomous_Language-Assisted_Image_ICCV_2025_paper.html) | GradNorm | ICCV 2025 | - |
 | [An Adaptor for Triggering Semi-Supervised Learning to Out-of-Box Serve Deep Image Clustering](https://doi.org/10.1109/TIP.2025.3611144) | ASD | IEEE TIP 2025 | - |
