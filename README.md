@@ -50,11 +50,12 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Upper Bounding Barlow Twins: A Novel Filter for Multi-Relational Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29383) | BTGF | AAAI 2024 | [Pytorch](https://github.com/XweiQ/BTGF) |
 | [DivClust: Controlling Diversity in Deep Clustering](https://arxiv.org/pdf/2304.01042.pdf) | DivClust | CVPR 2023 | [Pytorch](https://github.com/ManiadisG/DivClust) |
 | [Stable Cluster Discrimination for Deep Clustering](https://openaccess.thecvf.com/content/ICCV2023/html/Qian_Stable_Cluster_Discrimination_for_Deep_Clustering_ICCV_2023_paper.html) | SeCu | ICCV 2023 | - |
+| [Deep Clustering With Consensus Representations](https://doi.org/10.1109/ICDM54844.2022.00141) | DECCS | ICDM 2022 | [Pytorch](https://gitlab.cs.univie.ac.at/lukas/deccs) |
 | [Discriminative Similarity for Data Clustering](https://openreview.net/pdf?id=kj0_45Y4r9i) | CDS | ICLR 2022 | - |
 | [Deep Clustering with Self-supervision using Pairwise Data Similarities](https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652) | DCSS | TechRxiv 2021 | [Pytorch](https://github.com/Armanfard-Lab/DCSS/blob/main/Codes/train.py) |
 | [Deep Descriptive Clustering](https://arxiv.org/pdf/2105.11549.pdf) | DDC | IJCAI 2021 | - |
 | [Deep Fusion Clustering Network](https://arxiv.org/pdf/2012.09600.pdf) | DFCN | AAAI 2021 | [Pytorch](https://github.com/WxTu/DFCN) |
-| [Details (Don't) Matter: Isolating Cluster Information in Deep Embedded Spaces](https://www.ijcai.org/proceedings/2021/0389.pdf) | ACe/DeC | IJCAI 2021 | - |
+| [Details (Don't) Matter: Isolating Cluster Information in Deep Embedded Spaces](https://www.ijcai.org/proceedings/2021/0389.pdf) | ACe/DeC | IJCAI 2021 | [Pytorch](https://gitlab.cs.univie.ac.at/lukas/acedec_public) |
 | [Double Low-rank Representation with Projection Distance Penalty for Clustering](https://github.com/fuzhiqiang1230/DLRRPD/blob/main/8382_Double_low_rank_representation_with_projection_distance_penalty_for_clustering.pdf) | DLRRPD | CVPR 2021 | [Matlab](https://github.com/fuzhiqiang1230/DLRRPD) |
 | [Learning Statistical Representation with Joint Deep Embedded Clustering](https://arxiv.org/pdf/2109.05232.pdf) | StatDEC | arXiv 2021 | - |
 | [Learning the Precise Feature for Cluster Assignment](https://arxiv.org/pdf/2106.06159.pdf) | - | IEEE Trans Cybern 2021 | [TensorFlow](https://github.com/gyh5421/unified_deep_clustering) |
@@ -95,6 +96,7 @@ This repository intentionally has a relatively broad scope. In addition to canon
 |  :---------  | :------:  | :------: | :------: |
 | [ClusterDDPM: An EM clustering framework with Denoising Diffusion Probabilistic Models](https://doi.org/10.1016/j.ins.2025.122518) | ClusterDDPM | Information Sciences 2025 | - |
 | [Deep Generative Clustering with Multimodal Diffusion Variational Autoencoders](https://openreview.net/pdf?id=k5THrhXDV3) | CMVAE | ICLR 2024 | [To be released](https://github.com/epalu/CMVAE) |
+| [The DipEncoder: Enforcing Multimodality in Autoencoders](https://doi.org/10.1145/3534678.3539407) | DipEncoder | KDD 2022 | [Pytorch](https://github.com/collinleiber/ClustPy) |
 | [Contrastive Fine-grained Class Clustering via Generative Adversarial Networks](https://openreview.net/pdf?id=XWODe7ZLn8f) | C3-GAN | ICLR 2022 | [Pytorch](https://github.com/naver-ai/c3-gan) |
 | [Neural generative model for clustering by separating particularity and commonality](https://www.sciencedirect.com/science/article/pii/S0020025521012585) | DGC | Information Sciences 2022 | - |
 | [Top-Down Deep Clustering with Multi-generator GANs](https://arxiv.org/pdf/2112.03398.pdf) | HC-MGAN | AAAI 2022 | [Pytorch](https://github.com/dmdmello/HC-MGAN) |
@@ -256,7 +258,7 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Towards Resource-friendly, Extensible and Stable Incomplete Multi-view Clustering](https://openreview.net/pdf?id=O45u81aby2) | ToRES | ICML 2024 | - |
 | [Investigating and Mitigating the Side Effects of Noisy Views for Self-Supervised Clustering Algorithms in Practical Multi-View Scenarios](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Investigating_and_Mitigating_the_Side_Effects_of_Noisy_Views_for_CVPR_2024_paper.pdf)| MVCAN|CVPR 2024| [Pytorch](https://github.com/SubmissionsIn/MVCAN)|
 | [Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment](https://arxiv.org/pdf/2303.15689.pdf) | IMVC | CVPR 2023 | - |
-| [Incomplete Multi-view Clustering via Prototype-based Imputation](https://www.ijcai.org/proceedings/2023/435) | ProImp | IJCAI 2023 | - |
+| [Incomplete Multi-view Clustering via Prototype-based Imputation](https://www.ijcai.org/proceedings/2023/435) | ProImp | IJCAI 2023 | [Pytorch](https://github.com/XLearning-SCU/2023-IJCAI-ProImp) |
 | [Deep Safe Incomplete Multi-view Clustering: Theorem and Algorithm](https://proceedings.mlr.press/v162/tang22c/tang22c.pdf) | DSIMVC | ICML 2022 | [Pytorch](https://github.com/Gasteinh/DSIMVC) |
 | [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf) | DCP | TPAMI 2022 | [Pytorch](https://github.com/XLearning-SCU/2022-TPAMI-DCP) |
 | [COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](https://openaccess.thecvf.com/content/CVPR2021/html/Lin_COMPLETER_Incomplete_Multi-View_Clustering_via_Contrastive_Prediction_CVPR_2021_paper.html) | COMPLETER | CVPR 2021 | [Pytorch](https://github.com/XLearning-SCU/2021-CVPR-Completer) |
@@ -274,8 +276,11 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Towards a Theoretical Understanding of Why Local Search Works for Clustering with Fair-Center Representation](https://ojs.aaai.org/index.php/AAAI/article/view/29638) | - | AAAI 2024 | - |
 | [Clustering with Fair-Center Representation: Parameterized Approximation Algorithms and Heuristics](https://dl.acm.org/doi/pdf/10.1145/3534678.3539487) | - | KDD 2022 | - |
 | [DeepDPM: Deep Clustering With an Unknown Number of Clusters](https://openaccess.thecvf.com/content/CVPR2022/papers/Ronen_DeepDPM_Deep_Clustering_With_an_Unknown_Number_of_Clusters_CVPR_2022_paper.pdf) | DeepDPM | CVPR 2022 | [Pytorch](https://github.com/BGU-CS-VIL/DeepDPM) |
+| [Dip-based Deep Embedded Clustering with k-Estimation](https://doi.org/10.1145/3447548.3467316) | DipDECK | KDD 2021 | [Pytorch](https://github.com/collinleiber/ClustPy) |
+| [Deep Embedded Non-Redundant Clustering](https://doi.org/10.1609/aaai.v34i04.5961) | ENRC | AAAI 2020 | [Pytorch](https://gitlab.cs.univie.ac.at/lukas/enrcpublic) |
 | [Adversarial Learning for Robust Deep Clustering](https://proceedings.neurips.cc/paper/2020/hash/6740526b78c0b230e41ae61d8ca07cf5-Abstract.html) | ALRDC | NeurIPS 2020 | [Keras](https://github.com/xdxuyang/ALRDC) |
 | [Deep Robust Clustering by Contrastive Learning](https://arxiv.org/abs/2008.03030) | DRC | arXiv 2020 | - |
+| [Deep Embedded Cluster Tree](https://doi.org/10.1109/ICDM.2019.00157) | DeepECT | ICDM 2019 | - |
 | [Clustering with outlier removal](https://arxiv.org/pdf/1801.01899.pdf?ref=https://githubhelp.com) | COR | TKDE 2019 | - |
 | [Differentiable Deep Clustering with Cluster Size Constraints](https://arxiv.org/pdf/1910.09036.pdf) |  -  | arXiv 2019 | - |
 | [Subspace Structure-aware Spectral Clustering for Robust Subspace Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yamaguchi_Subspace_Structure-Aware_Spectral_Clustering_for_Robust_Subspace_Clustering_ICCV_2019_paper.pdf) | - | ICCV 2019 | - |
